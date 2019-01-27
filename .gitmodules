@@ -1,0 +1,6 @@
+[submodule "egit"]
+	path = egit
+	url = https://github.com/wanxinGit/egit.git
+[submodule "testweb"]
+	path = testweb
+	url = https://github.com/wanxinGit/testweb.git
